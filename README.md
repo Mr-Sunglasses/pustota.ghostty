@@ -21,8 +21,8 @@ A clean, minimalist ghostty theme inspired by the original [pustota VSCode theme
    ```
 3. Copy the `pustota` file to your ghostty themes directory:
     ```bash
-    mkdir -p ~/.ghostty/themes
-    cp pustota ~/.ghostty/themes/
+    mkdir -p ~/.config/ghostty/themes
+    cp pustota ~/.config/ghostty/themes/
     ```
 4. List available themes to verify installation:
    ```bash
